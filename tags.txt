@@ -1,9 +1,0 @@
-<script src="mraid.js"></script>
-<script>
-    var CLICK_TAGS = [
-        "%%DEST_URL%%",
-        "http://2dkit.com"
-    ];
-</script>
-<div id="content"></div>
-<script src="http://2dkit.com/site/sling001//targets/mraid-ad.js"></script>
